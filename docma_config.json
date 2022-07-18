@@ -65,7 +65,7 @@
         "filter": null,
         "allowUnknownTags": true
     },
-    "debug": true,
+    "debug": false,
     "markdown": {
         "gfm": true,
         "tables": true,
@@ -82,7 +82,7 @@
         "title": "MenuV Documentation",
         "meta": null,
         "routing": "path",
-        "server": "github",
+        "server": "STATIC",
         "favicon": "./img/favicon.ico"
     },
     "src": [
