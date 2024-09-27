@@ -80,7 +80,21 @@
     },
     "app": {
         "title": "MenuV Documentation",
-        "meta": null,
+        "meta": [
+            {
+                "name": "description",
+                "content": "MenuV is a library written for FiveM and only uses NUI functionalities. This library allows you to create menus in FiveM."
+            }, {
+                "name": "keywords",
+                "content": "menuv, docs, fivem, nui, library, documentation"
+            }, {
+                "name": "author",
+                "content": "ThymonA"
+            }, {
+                "name": "robots",
+                "content": "index, follow"
+            }
+        ],
         "routing": "path",
         "server": "STATIC",
         "favicon": "./img/favicon.ico"
@@ -95,6 +109,5 @@
     "assets": {
         "/img": [ "./img/*.png", "./img/*.ico" ]
     },
-    "dest": "./output/docs",
     "clean": true
 }
