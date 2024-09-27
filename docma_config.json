@@ -93,6 +93,9 @@
             }, {
                 "name": "robots",
                 "content": "index, follow"
+            }, {
+                "name": "google-site-verification",
+                "content": "DazgkzH0dYFJg0J-_rcSXYLOy-gHkmjHWdQjxM-Mhcg"
             }
         ],
         "routing": "path",
